@@ -58,7 +58,7 @@ Após subir, só falta escanear o QR Code do WhatsApp!
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/randomname124290358349/docker-evolutionapi-n8n-openai-whatsapp.git
+git clone https://github.com/iurijw/docker-evolutionapi-n8n-openai-whatsapp.git
 cd docker-evolutionapi-n8n-openai-whatsapp
 ```
 
