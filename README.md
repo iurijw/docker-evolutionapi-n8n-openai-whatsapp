@@ -58,8 +58,8 @@ Após subir, só falta escanear o QR Code do WhatsApp!
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/randomname124290358349/fast-n8n-evolutionapi-redis.git
-cd fast-n8n-evolutionapi-redis
+git clone https://github.com/randomname124290358349/docker-evolutionapi-n8n-openai-whatsapp.git
+cd docker-evolutionapi-n8n-openai-whatsapp
 ```
 
 ### 2. Configure as variáveis de ambiente
